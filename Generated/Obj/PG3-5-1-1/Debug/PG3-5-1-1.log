@@ -1,19 +1,13 @@
-﻿  StringUtility.cpp
-  DirectXCommon.cpp
-  WinApp.cpp
-  GameScene.cpp
-  TextureManager.cpp
-  ImGuiManager.cpp
-  Novice.cpp
-  ClearScene.cpp
+﻿  ClearScene.cpp
   Enemy.cpp
   GameManager.cpp
   IScene.cpp
-  main.cpp
   Player.cpp
   StageScene.cpp
-  tama.cpp
   TitleScene.cpp
+  main.cpp
+  tama.cpp
+  LINK : 前回のインクリメンタル リンクで C:\Users\PC_User\Desktop\PG\PG3-5-1-1\..\Generated\Outputs\Debug\PG3-5-1-1.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
   PG3-5-1-1.vcxproj -> C:\Users\PC_User\Desktop\PG\Generated\Outputs\Debug\PG3-5-1-1.exe
   0 個のファイルをコピーしました
   0 個のファイルをコピーしました
