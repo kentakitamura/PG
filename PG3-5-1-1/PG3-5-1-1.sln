@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG3-5-1-1", "PG3-5-1-1.vcxproj", "{A9921DE4-8BEA-4ACC-9E4A-B1C3EC43AE88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{599FE0D4-CC12-459A-AF38-B88EF389212A}"
+	ProjectSection(SolutionItems) = preProject
+		ClearScene.cpp = ClearScene.cpp
+		..\..\..\..\Downloads\PG3_0501ヒント.zip = ..\..\..\..\Downloads\PG3_0501ヒント.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9921DE4-8BEA-4ACC-9E4A-B1C3EC43AE88}.Debug|x64.ActiveCfg = Debug|x64
+		{A9921DE4-8BEA-4ACC-9E4A-B1C3EC43AE88}.Debug|x64.Build.0 = Debug|x64
+		{A9921DE4-8BEA-4ACC-9E4A-B1C3EC43AE88}.Release|x64.ActiveCfg = Release|x64
+		{A9921DE4-8BEA-4ACC-9E4A-B1C3EC43AE88}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CC2443-1511-45D6-888A-96F61792A8C8}
+	EndGlobalSection
+EndGlobal
